@@ -1,0 +1,23 @@
+{
+  "name": "fe-mentor-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIshimwe/fe-mentor-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IIshimwe/fe-mentor-challenge/issues"
+  },
+  "homepage": "https://github.com/IIshimwe/fe-mentor-challenge#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
